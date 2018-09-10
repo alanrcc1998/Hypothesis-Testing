@@ -1,4 +1,4 @@
-# Hypothesis-Testing
+# Hypothesis Testing
   
   
  Testing hypothesis that:
